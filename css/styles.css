@@ -113,7 +113,11 @@ img {
   width: 80%;
 }
 
-.header_text {
+header div {
   margin-left: 3%;
   margin-top: 3%;
+}
+
+nav ul {
+  list-style-type: none;
 }
