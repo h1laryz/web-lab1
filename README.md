@@ -26,3 +26,5 @@
 ### Варіант 10
 
 ![alt text](task.png 'Варіант 10')
+
+Deploy vercel link: https://web-lab1-kappa.vercel.app/
